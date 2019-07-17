@@ -1,6 +1,8 @@
 # Change Log
 
 ## [Unreleased]
+### Changed
+- Filters - Improve filters genericity
 
 ## RELEASE 3.1.0 - 2019-07-09
 ### Added
