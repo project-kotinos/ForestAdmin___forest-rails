@@ -2,7 +2,7 @@
 
 ## [Unreleased]
 ### Changed
-- Filters - Improve filters genericity. 🛡
+- Filters - Support complex/generic conditions chaining. 🛡
 - Technical - Upgrade Ruby version to 2.3.4 for the CI.
 
 ## RELEASE 3.1.0 - 2019-07-09
