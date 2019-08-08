@@ -11,4 +11,4 @@ ci:
     name: default
 dependencies:
   build:
-  - ruby:2.2.0
+  - ruby:2.4.0
